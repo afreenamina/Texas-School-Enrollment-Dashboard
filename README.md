@@ -1,5 +1,7 @@
 # Texas Public School Enrollment Dashboard
 
+![Texas Public School Enrollment Dashboard](dashboard.png)
+
 ## Project Overview
 
 This project analyzes Texas public school enrollment data for the
