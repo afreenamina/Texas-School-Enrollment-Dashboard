@@ -22,6 +22,14 @@ Texas school districts, campuses, counties, and campus types.
 - School year filtering
 - Interactive dashboard visuals
 
+## Key Insights
+
+- Total enrollment is approximately 5.5M students per school year.
+- Elementary schools represent the largest share of enrollment.
+- Houston ISD has the highest enrollment among the districts shown.
+- The dashboard allows users to compare enrollment across school years.
+- County and district slicers provide interactive filtering.
+
 ## Key KPIs
 
 - Total Enrollment
